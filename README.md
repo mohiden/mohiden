@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohiden abdulkarim adam</h1>
-<h3 align="center">Dedicated and efficient full-stack software and mobile app developer with 6+ years of experience</h3>
+<h3 align="center">Software engineer</h3>
 
 - 🔭 I’m currently working on [Platform for somali designers](https://somalicreatives.com/)
 
